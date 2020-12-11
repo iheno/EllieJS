@@ -82,5 +82,5 @@ console.log(fruits.includes('🍉')); // false
 console.log(fruits);
 fruits.push('🥚');
 console.log(fruits); // 계란이 두개에요~
-console.log(fruits.indexOf('🥚'));
-console.log(fruits.lastIndexOf('🥚'));
+console.log(fruits.indexOf('🥚')); // 2
+console.log(fruits.lastIndexOf('🥚')); // 6
