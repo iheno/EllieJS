@@ -1,5 +1,7 @@
 'use strict';
 
+// Shorthand property names
+
 {
   const heno1 = {
     name: 'Heno',
@@ -22,3 +24,5 @@
 
   console.log(heno1, heno2, heno3);
 }
+
+//sss
